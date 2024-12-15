@@ -6,3 +6,8 @@ const developerbola = {
   skills: ["ReactJS", "NextJS", "Material UI", "TailwindCSS", "NodeJS", "ExpressJS", "MongoDB", "Firebase"]
 }
 ```
+
+## 🔗 Links
+
+- Portfolio: https://developerbola.vercel.app
+- Telegram Blog channel: https://t.me/developersStory
