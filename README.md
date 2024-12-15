@@ -10,4 +10,4 @@ const developerbola = {
 ## 🔗 Links
 
 - Portfolio: https://developerbola.vercel.app
-- Telegram Blog channel: https://t.me/developersStory
+- Blogs: https://t.me/developersStory
