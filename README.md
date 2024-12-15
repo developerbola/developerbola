@@ -1,4 +1,4 @@
-## Hi, I am Qobiljon 👋
+## Assalomu Aleykum (Hello There), I am Qobiljon 👋
 ```javascript
 const developerbola = {
   name: "Tukhtamatov Qobiljon",
