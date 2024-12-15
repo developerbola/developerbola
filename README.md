@@ -1,4 +1,4 @@
-## Assalomu Aleykum (Hello There), I am Qobiljon 👋
+## Assalomu Aleykum (Hello There), I am Qobiljon :waving_hand:
 ```javascript
 const developerbola = {
   name: "Tukhtamatov Qobiljon",
