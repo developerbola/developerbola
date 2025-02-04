@@ -9,5 +9,5 @@ const developerbola = {
 
 ## 🔗 Links
 
-- Portfolio: https://developerbola.vercel.app
-- Blogs: https://t.me/developer_bola
+- Portfolio: https://mutawirr.vercel.app
+- Blogs: https://t.me/mutawirr
