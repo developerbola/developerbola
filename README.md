@@ -10,4 +10,4 @@ const developerbola = {
 ## 🔗 Links
 
 - Portfolio: https://mutawirr.vercel.app
-- Blogs: https://t.me/mutawirr
+- Contact: https://t.me/mutawirr
