@@ -2,7 +2,7 @@
 ```javascript
 const mutawirr = {
   name: "Qobiljon",
-  age: new Date().getYear() - 2008,
+  age: new Date().getYear() - 2008, // 17
   skills: ["ReactJS", "NextJS", "Material UI", "TailwindCSS", "NodeJS", "ExpressJS", "Supabase", "MongoDB"]
 }
 ```
