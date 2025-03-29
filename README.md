@@ -9,5 +9,6 @@ const mutawirr = {
 
 ## 🔗 Links
 
-- Portfolio: https://mutawirr.vercel.app
-- Contact: https://t.me/mutawirr
+- Portfolio: [Mutawirr.vercel.app](https://mutawirr.vercel.app){:target="_blank"}
+- Contact: [Telegram Chatting](https://mutawirr.vercel.app){:target="_blank"}
+
