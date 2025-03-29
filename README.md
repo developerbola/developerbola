@@ -9,6 +9,6 @@ const mutawirr = {
 
 ## 🔗 Links
 
-- Portfolio: [Mutawirr.vercel.app](https://mutawirr.vercel.app){:target="_blank"}
-- Contact: [Telegram Chatting](https://mutawirr.vercel.app){:target="_blank"}
+- Portfolio: <a href="https://mutawirr.vercel.app" target="_blank" rel="noopener noreferrer">Mutawirr</a>
+- Contact: <a href="https://t.me/mutawirr" target="_blank" rel="noopener noreferrer">Telegram Chat</a>
 
