@@ -10,5 +10,5 @@ const mutawirr = {
 ## 🔗 Links
 
 - Portfolio: <a href="https://mutawirr.vercel.app" target="_blank" rel="noopener noreferrer">Mutawirr</a>
-- Contact: <a href="https://t.me/mutawirr" target="_blank" rel="noopener noreferrer">Telegram Chat</a>
+- Contact: <a href="https://t.me/mutawirr" target="_blank" rel="noopener noreferrer">Telegram profile</a>
 
