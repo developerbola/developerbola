@@ -1,4 +1,4 @@
-## Assalomu Aleykum (Hello There), I am Qobiljon 👋
+## Assalamu Aleykum (Hello There), I am Qobiljon 👋
 ```javascript
 const mutawirr = {
   name: "Qobiljon",
