@@ -10,6 +10,6 @@ const mutawirr = {
 ## 🔗 Links
 
 - Portfolio: <a href="https://mutawirr.vercel.app" target="_blank" rel="noopener noreferrer">Mutawirr</a>
-- Resume: <a href="https://mutawirr.vercel.app/resume" target="_blank" rel="noopener noreferrer">Resume</a>
+- Resume: <a href="https://mutawirr.vercel.app/resume" target="_blank" rel="noopener noreferrer">resume.pdf</a>
 - Contact: <a href="https://t.me/mutawirr" target="_blank" rel="noopener noreferrer">Telegram profile</a>
 
