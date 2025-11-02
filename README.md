@@ -1,8 +1,8 @@
 ## Assalamu Aleykum (Hello There), I am Qobiljon 👋
 ```javascript
 const mutawirr = {
-  name: "Qobiljon",
-  age: new Date().getYear() - 2008, // 17
+  name: "Qobiljon"
+  age: new Date().getYear() - 2008 // 17
   skills: {
     client: ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"]
     server: {
