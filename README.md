@@ -6,7 +6,7 @@ const mutawirr = {
   skills: {
     client: ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"]
     server: {
-      tools: ["NodeJS", "ExpressJS", "HonoJS"]
+      tools: ["NodeJS", "ExpressJS", "HonoJS"],
       db:    ["Supabase", "MongoDB", "Firebase", "Appwrite"]
     }
   }
