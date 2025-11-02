@@ -3,7 +3,13 @@
 const mutawirr = {
   name: "Qobiljon",
   age: new Date().getYear() - 2008, // 17
-  skills: ["NextJS", "Shadcn", "TailwindCSS", "NodeJS", "ExpressJS", "HonoJS", "Supabase", "MongoDB"]
+  skills: {
+    "client": ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"]
+    "server": {
+      "tools": ["NodeJS", "ExpressJS", "HonoJS"]
+      "databases": ["Supabase", "MongoDB", "Firebase", "Appwrite"]
+    }
+  }
 }
 ```
 
