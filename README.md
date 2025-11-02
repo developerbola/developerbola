@@ -4,10 +4,10 @@ const mutawirr = {
   name: "Qobiljon",
   age: new Date().getYear() - 2008, // 17
   skills: {
-    "client": ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"]
-    "server": {
-      "tools": ["NodeJS", "ExpressJS", "HonoJS"]
-      "databases": ["Supabase", "MongoDB", "Firebase", "Appwrite"]
+    client: ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"]
+    server: {
+      tools: ["NodeJS", "ExpressJS", "HonoJS"]
+      db: ["Supabase", "MongoDB", "Firebase", "Appwrite"]
     }
   }
 }
