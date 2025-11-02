@@ -6,7 +6,7 @@ const mutawirr = {
   skills: {
     client: ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"]
     server: {
-      tools: ["NodeJS", "ExpressJS", "HonoJS"],
+      tools: ["NodeJS", "ExpressJS", "HonoJS"]
       db:    ["Supabase", "MongoDB", "Firebase", "Appwrite"]
     }
   }
@@ -15,7 +15,7 @@ const mutawirr = {
 
 ## 🔗 Links
 
-- Portfolio: <a href="https://mutawirr.vercel.app" target="_blank" rel="noopener noreferrer">Mutawirr</a>
-- Resume: <a href="https://mutawirr.vercel.app/resume" target="_blank" rel="noopener noreferrer">resume.pdf</a>
+- Portfolio: <a href="https://mutawirr.uz" target="_blank" rel="noopener noreferrer">Mutawirr</a>
+- Resume: <a href="https://mutawirr.uz/resume" target="_blank" rel="noopener noreferrer">resume.pdf</a>
 - Contact: <a href="https://t.me/mutawirr" target="_blank" rel="noopener noreferrer">Telegram profile</a>
 
