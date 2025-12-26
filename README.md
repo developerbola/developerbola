@@ -15,7 +15,7 @@ const mutawirr = {
 
 ## 🔗 Links
 
-- Portfolio: <a href="https://mutawirr.uz" target="_blank" rel="noopener noreferrer">Mutawirr</a>
+- Portfolio: <a href="https://mutawirr.uz" target="_blank" rel="noopener noreferrer">Mutawirr.uz</a>
 - Resume: <a href="https://mutawirr.uz/resume" target="_blank" rel="noopener noreferrer">resume.pdf</a>
 - Contact: <a href="https://t.me/mutawirr" target="_blank" rel="noopener noreferrer">Telegram profile</a>
 
