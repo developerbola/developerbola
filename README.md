@@ -1,13 +1,13 @@
 ## Assalamu Aleykum (Hello There), I am Qobiljon 👋
-```javascript
+```js
 const mutawirr = {
-  name: "Qobiljon"
-  age: new Date().getYear() - 2008 // 17
+  name: "Qobiljon",
+  age: new Date().getYear() - 2008, // 18
   skills: {
-    client: ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"]
+    client: ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"],
     server: {
-      tools: ["NodeJS", "ExpressJS", "HonoJS"]
-      db:    ["Supabase", "MongoDB", "Firebase", "Appwrite"]
+      tools: ["NodeJS", "ExpressJS", "HonoJS"],
+      db:    ["Supabase", "MongoDB", "Firebase", "Appwrite"],
     }
   }
 }
