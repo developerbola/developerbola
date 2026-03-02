@@ -7,8 +7,10 @@ const mutawirr = {
     client: ["ReactJS", "NextJS", "Shadcn", "TailwindCSS"],
     server: {
       tools: ["NodeJS", "ExpressJS", "HonoJS"],
-      db:    ["Supabase", "MongoDB", "Firebase", "Appwrite"],
-    }
+      database: ["Supabase", "MongoDB", "Firebase", "Appwrite"],
+    },
+    mobile: ["React Native", "Expo"],
+    desktop: ["Tauri", "ElectronJS"]
   }
 }
 ```
